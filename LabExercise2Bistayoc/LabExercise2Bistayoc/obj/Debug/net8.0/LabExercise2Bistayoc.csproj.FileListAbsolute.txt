@@ -1,0 +1,14 @@
+C:\Users\Josh Bistayoc\source\repos\LabExercise2Bistayoc\LabExercise2Bistayoc\bin\Debug\net8.0\LabExercise2Bistayoc.exe
+C:\Users\Josh Bistayoc\source\repos\LabExercise2Bistayoc\LabExercise2Bistayoc\bin\Debug\net8.0\LabExercise2Bistayoc.deps.json
+C:\Users\Josh Bistayoc\source\repos\LabExercise2Bistayoc\LabExercise2Bistayoc\bin\Debug\net8.0\LabExercise2Bistayoc.runtimeconfig.json
+C:\Users\Josh Bistayoc\source\repos\LabExercise2Bistayoc\LabExercise2Bistayoc\bin\Debug\net8.0\LabExercise2Bistayoc.dll
+C:\Users\Josh Bistayoc\source\repos\LabExercise2Bistayoc\LabExercise2Bistayoc\bin\Debug\net8.0\LabExercise2Bistayoc.pdb
+C:\Users\Josh Bistayoc\source\repos\LabExercise2Bistayoc\LabExercise2Bistayoc\obj\Debug\net8.0\LabExercise2Bistayoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh Bistayoc\source\repos\LabExercise2Bistayoc\LabExercise2Bistayoc\obj\Debug\net8.0\LabExercise2Bistayoc.AssemblyInfoInputs.cache
+C:\Users\Josh Bistayoc\source\repos\LabExercise2Bistayoc\LabExercise2Bistayoc\obj\Debug\net8.0\LabExercise2Bistayoc.AssemblyInfo.cs
+C:\Users\Josh Bistayoc\source\repos\LabExercise2Bistayoc\LabExercise2Bistayoc\obj\Debug\net8.0\LabExercise2Bistayoc.csproj.CoreCompileInputs.cache
+C:\Users\Josh Bistayoc\source\repos\LabExercise2Bistayoc\LabExercise2Bistayoc\obj\Debug\net8.0\LabExercise2Bistayoc.dll
+C:\Users\Josh Bistayoc\source\repos\LabExercise2Bistayoc\LabExercise2Bistayoc\obj\Debug\net8.0\refint\LabExercise2Bistayoc.dll
+C:\Users\Josh Bistayoc\source\repos\LabExercise2Bistayoc\LabExercise2Bistayoc\obj\Debug\net8.0\LabExercise2Bistayoc.pdb
+C:\Users\Josh Bistayoc\source\repos\LabExercise2Bistayoc\LabExercise2Bistayoc\obj\Debug\net8.0\LabExercise2Bistayoc.genruntimeconfig.cache
+C:\Users\Josh Bistayoc\source\repos\LabExercise2Bistayoc\LabExercise2Bistayoc\obj\Debug\net8.0\ref\LabExercise2Bistayoc.dll
